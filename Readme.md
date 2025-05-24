@@ -1,7 +1,7 @@
 <h1 align = "center">Hey there , This is Tamanna Kapoor. 👋</h1>
 
 <div id="header" align="center">
-  <img src="https://media.tenor.com/2ITHaiXAjNcAAAAj/night-shift-work.gif" width="300" height="300"/>
+  <img src="https://media.tenor.com/2ITHaiXAjNcAAAAj/night-shift-work.gif" width="200" height="200"/>
 </div>
 
 ## 🚀 About Me
